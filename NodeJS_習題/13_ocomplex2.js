@@ -1,7 +1,7 @@
 /*
 在物件的原型 prototype 裏通常還有些其他未顯示出來的函數，
 像是 toString() 就是一個很好用的函數，假如我們為物件加上 toString()函數的話，
-那麼在該物件需要被轉換成字串的時候，就會自動呼叫 toString()，以下是我們為上述 ocomplex1.js 程式
+那在該物件需要被轉換成字串的時候，就會自動呼叫 toString()，以下是我們為上述 ocomplex1.js 程式
 加上 toString() 函數之後的結果，這個版本稱為 ocomplex2.js。
 */
 
