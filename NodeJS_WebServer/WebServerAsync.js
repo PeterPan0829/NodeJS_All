@@ -1,3 +1,5 @@
+// 非同步版
+
 var path = require('path');
 var fs = require("fs");
 var qs = require('querystring');
