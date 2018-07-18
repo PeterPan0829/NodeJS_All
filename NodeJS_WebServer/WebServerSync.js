@@ -1,6 +1,6 @@
-// 同步版
+// 此為同步版本範例
 
-var path = require('path');
+var path = require('path'); // require() 引用函式庫
 var fs = require("fs");
 var qs = require('querystring');
 var express = require("express");
